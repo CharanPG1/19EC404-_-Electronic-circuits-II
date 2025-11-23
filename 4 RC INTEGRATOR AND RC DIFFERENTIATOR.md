@@ -21,9 +21,11 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![WhatsApp Image 2025-11-23 at 22 49 27_e9d996a5](https://github.com/user-attachments/assets/a8aeba22-4f6c-4216-a65e-2b6d5c345c4e)
 
 
 # Graph
+![WhatsApp Image 2025-11-23 at 22 49 52_d700e681](https://github.com/user-attachments/assets/67c421de-5e3b-4a7d-bff0-75ad41414483)
 
 
 # Sample images 
@@ -31,3 +33,4 @@
 
 # Result
 
+Thus different clamper cricuits are studied and their output waveforms are plotted
